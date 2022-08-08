@@ -1,7 +1,7 @@
 # IA_DL_FuitsInspection
 
 Projeto de faculdade realizado no intuito de desenvolver habilidades de Python e Deep Learning e Visão Computacional.
-O objetivo é a classificação de futas do tipo banana, laranja e maçã, e além disso inspecionar também se a fruta está boa ou ruim para comer.
+O objetivo é a classificação de frutas do tipo banana, laranja e maçã, e além disso inspecionar também se a fruta está boa ou ruim para comer.
 
 Foi utilizado tensorflow, keras e o modelo de treinamento usado foi a partir da arquitetura VGG16.
 O Dataset de imagens foi extraído do Kaggle.
