@@ -1,6 +1,6 @@
 # IA_DL_FruitsInspection
 
-Projeto de faculdade realizado no intuito de desenvolver habilidades de Python e Deep Learning e Visão Computacional.
+Projeto de faculdade realizado no intuito de desenvolver habilidades de Python, Deep Learning e Visão Computacional.
 O objetivo é a classificação de frutas do tipo banana, laranja e maçã, e além disso inspecionar também se a fruta está boa ou ruim para comer.
 
 Foi utilizado tensorflow, keras e o modelo de treinamento usado foi a partir da arquitetura VGG16.
